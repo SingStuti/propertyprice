@@ -7,21 +7,22 @@ By this Project we can help buyer as well as seller
 
 Housebuyer: This client wants to find their next dream home with a reasonable price tag. They have their locations of interest ready. Now, they want to know if the house price matches the house value. With this study, they can understand which features (ex. Number of bathrooms, location, etc.) influence the final price of the house. If all matches, they can ensure that they are getting a fair price.
 
----------------------------------------------------------------------------------------------------------------------------
 Houseseller: Think of the average house-flipper. This client wants to take advantage of the features that influence a house price the most. They typically want to buy a house at a low price and invest on the features that will give the highest return. For example, buying a house at a good location but small square footage. The client will invest on making rooms at a small cost to get a large return.
 
+---------------------------------------------------------------------------------------------------------------------------
 #### Overview
+
 Importing Modules
-Data Cleaning and handling null values
+Data Preprocessing
 Creating a Simple Linear Regression
 Visualizing and Examining Data
-Data Preprocessing
 Binning
 Multiple Regression
 Regularization
 a. Ridge
 b. Lasso
 
+---------------------------------------------------------------------------------------------------------------------------
 #### Key findings and conclusions:
 
 1. Our model shows that the primary driver for property prices in King County is the square footage of the living space. Property prices are also highly impacted by its location in the city (derived from zipcode): in particular, properties in premium areas in and near the city have higher prices than it outer suburbs. Building grade as set by the county authority is also another factor as higher grade properties are in better condition and thus can fetch a higher price. Finally in our model, waterfront view is another factor that pushes the property price up due to the prime views.
