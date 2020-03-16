@@ -1,10 +1,11 @@
 # Property Price Prediction for King County
 ![Image description](https://www.racialequityalliance.org/wp-content/uploads/2016/10/assessors_social-1.jpg)
 
-Real estate decision makers would benefit from accurate forecasts of house prices and of the variance of future prices. For example, developers and investors could decide whether the projected returns from a housing development were sufficient to offset the risks. Prospective homeowners could balance the consumption value of a home against risks and rewards from the investment component.
+Real estate decision makers would benefit from accurate forecasts of house prices and of the variance of future prices. For example, developers and investors could decide whether the projected returns from a housing development were sufficient to offset the risks. Prospective homeowners could balance the consumption value of a home against risks and rewards from the investment component.(space, space)
 By this Project we help help buyer as well as seller
 Housebuyer: This client wants to find their next dream home with a reasonable price tag. They have their locations of interest ready. Now, they want to know if the house price matches the house value. With this study, they can understand which features (ex. Number of bathrooms, location, etc.) influence the final price of the house. If all matches, they can ensure that they are getting a fair price.
 
+---------------------------------------------------------------------------------------------------------------------------
 Houseseller: Think of the average house-flipper. This client wants to take advantage of the features that influence a house price the most. They typically want to buy a house at a low price and invest on the features that will give the highest return. For example, buying a house at a good location but small square footage. The client will invest on making rooms at a small cost to get a large return.
 #### Overview
 Importing Modules
