@@ -9,6 +9,11 @@ Housebuyer: This client wants to find their next dream home with a reasonable pr
 
 Houseseller: Think of the average house-flipper. This client wants to take advantage of the features that influence a house price the most. They typically want to buy a house at a low price and invest on the features that will give the highest return. For example, buying a house at a good location but small square footage. The client will invest on making rooms at a small cost to get a large return.
 
+#### Goals
+- What are the main drivers that contribute to property prices in King County?
+- Could property prices in King County be reliably predicted?
+- Which areas in King County can be considered as premium locations?
+
 ---------------------------------------------------------------------------------------------------------------------------
 #### Overview
 
