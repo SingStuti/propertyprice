@@ -18,9 +18,10 @@ Houseseller: Think of the average house-flipper. This client wants to take advan
 4. Visualizing and Examining Data
 5. Binning
 6. Multiple Regression
-Regularization
-7. a. Ridge
-b. Lasso
+7. Regularization
+- Ridge
+- Lasso
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 #### Key findings and conclusions:
